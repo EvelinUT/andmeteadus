@@ -83,7 +83,7 @@ Gabon,GAB,1,Sub-Saharan Africa,Upper middle income,5349.20,2.33,257670.00,238899
 United Kingdom,GBR,1,Europe & Central Asia,High income,308650.30,4.60,241930.00,66971395.00,277.05,1.56,80.70,3.70,3141510000000.00,100.00
 Georgia,GEO,1,Europe & Central Asia,Upper middle income,10255.00,2.75,69490.00,3712502.00,64.88,2.08,71.69,8.40,18629365612.00,100.00
 Ghana,GHA,1,Sub-Saharan Africa,Lower middle income,19401.16,0.60,227533.00,33475870.00,144.30,3.56,63.80,32.60,79524421861.00,86.30
-Gibraltar,GIB,1,Europe & Central Asia,High income,0.00,0.00,10.00,32649.00,3266.90,1.85,79.33,,2344000000�,100.00
+Gibraltar,GIB,1,Europe & Central Asia,High income,0.00,0.00,10.00,32649.00,3266.90,1.85,79.33,,2344000000,100.00
 Guinea,GIN,1,Sub-Saharan Africa,Lower middle income,4537.90,0.34,245720.00,13859341.00,55.07,4.40,58.89,63.80,16091817842.00,46.81
 "Gambia, The",GMB,1,Sub-Saharan Africa,Low income,611.40,0.24,10120.00,2705992.00,260.86,4.68,62.08,34.00,2038414969.00,63.70
 Guinea-Bissau,GNB,1,Sub-Saharan Africa,Low income,329.00,0.16,28120.00,2105566.00,73.28,4.01,59.65,50.00,1638517607.00,35.76
@@ -191,7 +191,7 @@ Papua New Guinea,PNG,1,East Asia & Pacific,Lower middle income,5491.50,0.56,4528
 Poland,POL,1,Europe & Central Asia,High income,279223.80,7.37,306100.00,36821749.00,123.32,1.33,75.60,3.70,681346000000.00,100.00
 Pre-demographic dividend,PRE,0,,,469494.04,0.48,20308679.83,1038012552.00,49.78,4.84,59.87,52.14,1432810000000.00,50.53
 Puerto Rico,PRI,1,Latin America & Caribbean,High income,0.00,0.00,8870.00,3221789.00,367.83,0.91,80.16,,106369000000.00,100.00
-"Korea, Dem. People's Rep.",PRK,1,East Asia & Pacific,Low income,52437.20,2.03,120410.00,26069416.00,215.70,1.81,73.28,10.10,18000000000�,52.63
+"Korea, Dem. People's Rep.",PRK,1,East Asia & Pacific,Low income,52437.20,2.03,120410.00,26069416.00,215.70,1.81,73.28,10.10,18000000000,52.63
 Portugal,PRT,1,Europe & Central Asia,High income,38973.50,3.78,91605.60,10409704.00,113.11,1.38,81.07,2.50,255535000000.00,100.00
 Paraguay,PRY,1,Latin America & Caribbean,Upper middle income,7575.70,1.14,397300.00,6780744.00,16.87,2.47,70.26,15.60,39950899939.00,100.00
 West Bank and Gaza,PSE,1,Middle East & North Africa,Upper middle income,0.00,0.00,6025.00,5043612.00,817.05,3.50,73.47,12.80,18109000000.00,100.00
@@ -253,14 +253,14 @@ United States,USA,1,North America,High income,4320532.50,13.03,9147420.00,333287
 Uzbekistan,UZB,1,Europe & Central Asia,Lower middle income,115577.80,3.38,440653.00,35648100.00,79.23,3.17,70.86,12.60,69600614987.00,99.90
 St. Vincent and the Grenadines,VCT,1,Latin America & Caribbean,Upper middle income,219.80,2.10,390.00,103948.00,267.52,1.80,69.63,12.60,872222222.20,100.00
 "Venezuela, RB",VEN,1,Latin America & Caribbean,,72509.00,2.55,882050.00,28301696.00,31.97,2.21,70.55,21.10,948000000.00,99.99
-British Virgin Islands,VGB,1,Latin America & Caribbean,High income,0.00,0.00,150.00,31305.00,207.48,1.01,74.49,9.90,1027000000�,100.00
+British Virgin Islands,VGB,1,Latin America & Caribbean,High income,0.00,0.00,150.00,31305.00,207.48,1.01,74.49,9.90,1027000000,100.00
 Virgin Islands (U.S.),VIR,1,Latin America & Caribbean,High income,0.00,0.00,350.00,105413.00,302.49,2.01,80.07,,4444000000.00,100.00
 Viet Nam,VNM,1,East Asia & Pacific,Lower middle income,355323.10,3.68,313429.00,98186856.00,310.97,1.94,73.62,16.40,366138000000.00,100.00
 Vanuatu,VUT,1,East Asia & Pacific,Lower middle income,121.30,0.39,12190.00,326740.00,26.18,3.74,70.45,19.70,971636097.90,70.04
 World,WLD,0,,,33566427.59,4.29,129777684.10,7950946801.00,60.78,2.27,71.33,28.40,97153181162291.00,91.41
 Samoa,WSM,1,East Asia & Pacific,Lower middle income,206.50,0.96,2780.00,222382.00,78.69,3.93,72.77,14.40,843923638.70,98.30
 Kosovo,XKX,1,Europe & Central Asia,Upper middle income,0.00,0.00,0.00,1761985.00,0.00,1.52,76.81,9.10,9412034299.00,0.00
-"Yemen, Rep.",YEM,1,Middle East & North Africa,Low income,9960.10,0.31,527970.00,33696614.00,62.47,3.80,63.75,46.70,21610000000�,74.88
+"Yemen, Rep.",YEM,1,Middle East & North Africa,Low income,9960.10,0.31,527970.00,33696614.00,62.47,3.80,63.75,46.70,21610000000,74.88
 South Africa,ZAF,1,Sub-Saharan Africa,Upper middle income,393241.60,6.69,1213090.00,59893885.00,48.96,2.37,62.34,26.40,420118000000.00,89.30
 Zambia,ZMB,1,Sub-Saharan Africa,Lower middle income,7607.10,0.40,743390.00,20017675.00,26.20,4.31,61.22,40.20,22096416934.00,46.69
 Zimbabwe,ZWE,1,Sub-Saharan Africa,Lower middle income,8312.50,0.53,386850.00,16320537.00,41.34,3.49,59.25,35.70,28371238666.00,48.98
